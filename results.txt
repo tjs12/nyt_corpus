@@ -1,0 +1,27 @@
+KNN unstructured
+Train set : 1000 (0 - 999)
+Test set : 100 (1900 - 1999)
+k = 50
+lim = 5
+Accuracy : 0.88
+
+KNN unstructured
+Train set : 1000 (0 - 999)
+Test set : 100 (1800 - 1899)
+k = 50
+lim = 5
+Accuracy : 0.87
+
+KNN structured
+Train set : 1000 (0 - 999)
+Test set : 100 (1900 - 1999)
+k = 50
+lim = 5
+Accuracy: 0.87
+
+KNN structured
+Train set : 1000 (0 - 999)
+Test set : 100 (1800 - 1899)
+k = 50
+lim = 5
+Accuracy : 0.84
